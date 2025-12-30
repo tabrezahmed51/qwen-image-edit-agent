@@ -1,0 +1,9 @@
+httpx==0.24.1
+aiofiles==23.2.1
+pydantic==2.5.0
+python-dotenv==1.0.0
+pillow==10.1.0
+numpy==1.26.2
+aiohttp==3.9.1
+tqdm==4.67.0
+loguru==0.7.2
