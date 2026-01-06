@@ -4,6 +4,6 @@ pydantic==2.5.0
 python-dotenv==1.0.0
 pillow==10.3.0
 numpy==1.26.2
-aiohttp==3.12.14
+aiohttp==3.13.3
 tqdm==4.67.0
 loguru==0.7.2
